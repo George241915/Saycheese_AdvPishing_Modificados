@@ -1,7 +1,7 @@
 # Saycheese_AdvPishing_Modificados
 Archivos .sh modificados para que muestren correctamente los links de las herramientas Saycheese y AdvPishing
 Estos archivos deben reemplazar los archivos .sh de las herramientas saycheese y AdvPishing
-Las herramientas se descragan en estos repositorios:
+Las herramientas se descargan en estos repositorios:
 Saycheese:
 https://github.com/cyb3rt3ch/saycheese
 AdvPishing:
