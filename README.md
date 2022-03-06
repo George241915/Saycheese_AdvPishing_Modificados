@@ -19,3 +19,6 @@ En caso de la herramienta AdvPishing:
 2. Eliminamos el archivo AdvPishing.sh
 3. Pegamos el archivo AdvPishing.sh de este repositorio.
 4. Y listo.
+
+Finalmente, no se olvide de darles los permisos necesarios con el comando:
+chmod 777 *
